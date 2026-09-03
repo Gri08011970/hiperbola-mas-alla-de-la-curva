@@ -6,9 +6,9 @@ function LaboratorioHiperbola({ onVolver, onSiguiente }) {
   const [h, setH] = useState(0);
   const [k, setK] = useState(0);
 
-  const [mostrarFocos, setMostrarFocos] = useState(true);
-  const [mostrarVertices, setMostrarVertices] = useState(true);
-  const [mostrarAsintotas, setMostrarAsintotas] = useState(true);
+  const [mostrarFocos, setMostrarFocos] = useState(false);
+  const [mostrarVertices, setMostrarVertices] = useState(false);
+  const [mostrarAsintotas, setMostrarAsintotas] = useState(false);
   const [mostrarEcuacion, setMostrarEcuacion] = useState(false);
 
   const escala = 55;

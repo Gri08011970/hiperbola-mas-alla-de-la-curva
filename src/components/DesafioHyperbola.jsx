@@ -79,9 +79,10 @@ function DesafioHyperbola({ onVolver, onSiguiente }) {
   useEffect(() => {
   if (!iniciado || respuesta !== null || terminado) return;
 
-  const timer = setTimeout(() => {
+  const timer = setInterval(() => {
     setTiempo((actual) => {
       if (actual <= 1) {
+        clearInterval(timer);
         setRespuesta("tiempo");
         return 0;
       }
@@ -90,7 +91,7 @@ function DesafioHyperbola({ onVolver, onSiguiente }) {
     });
   }, 1000);
 
-  return () => clearTimeout(timer);
+  return () => clearInterval(timer);
 }, [iniciado, respuesta, terminado]);
 
   const responder = (opcion) => {
