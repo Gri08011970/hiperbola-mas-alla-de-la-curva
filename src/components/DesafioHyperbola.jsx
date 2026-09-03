@@ -163,8 +163,9 @@ function DesafioHyperbola({ onVolver, onSiguiente }) {
 
             <div>
               <strong>∞</strong>
-              <span>GLORIA</span>
+              <span>PUNTAJE</span>
             </div>
+
           </div>
 
           <button

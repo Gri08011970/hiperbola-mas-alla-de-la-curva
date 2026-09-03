@@ -67,7 +67,7 @@ function App() {
 
           <div className="contenido-estacion">
             <div className="lado-texto">
-              <span className="mini-etiqueta">PRIMER CONTACTO</span>
+              <span className="mini-etiqueta">Comencemos</span>
 
               <h3>
                 ¿Qué es una
@@ -107,7 +107,7 @@ function App() {
                 className="boton-secundario"
                 onClick={() => setPantalla("laboratorio")}
               >
-                MOSTRAME CÓMO FUNCIONA →
+                ASÍ  FUNCIONA →
               </button>
             </div>
           </div>

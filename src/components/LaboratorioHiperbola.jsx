@@ -91,11 +91,11 @@ function LaboratorioHiperbola({ onVolver, onSiguiente }) {
       <div className="lab-encabezado">
         <span className="mini-etiqueta">ESTACIÓN 02</span>
 
-        <h3>LABORATORIO DE HIPÉRBOLAS</h3>
+        <h3>CREAMOS HIPÉRBOLAS</h3>
 
         <p>
-          No la estudies todavía.
-          <strong> Tocala.</strong>
+          Se aprende .
+          <strong> Haciendo.</strong>
         </p>
       </div>
 
@@ -337,9 +337,9 @@ function LaboratorioHiperbola({ onVolver, onSiguiente }) {
             <span>👀</span>
 
             <div>
-              <strong>¿QUÉ ACABÁS DE CAMBIAR?</strong>
+              <strong>¿QUÉ CAMBIASTE?</strong>
               <p>
-                Mové un solo control por vez y observá qué parte de la curva
+                Mové un solo control por vez y mirá qué parte de la curva
                 responde.
               </p>
             </div>

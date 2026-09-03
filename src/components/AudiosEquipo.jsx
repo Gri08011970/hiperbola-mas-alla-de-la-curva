@@ -8,8 +8,8 @@ import audioMarlene from "../assets/audios/marlene-ecuacion.mp3";
 const integrantes = [
   {
     id: 1,
-    nombre: "Sofi",
-    apodo: "PRÓXIMAMENTE",
+    nombre: "Sofia Jimenez",
+    apodo: "TOTI",
     tema: "¿Qué es una hipérbola?",
     descripcion:
       "Una explicación corta y clara para entender la idea general antes de entrar en fórmulas.",
@@ -17,8 +17,8 @@ const integrantes = [
   },
   {
     id: 2,
-    nombre: "Facu",
-    apodo: "PRÓXIMAMENTE",
+    nombre: "Facundo Figueroa ",
+    apodo: "Facu",
     tema: "Los focos",
     descripcion:
       "Qué son, dónde están y por qué tienen un papel tan importante en esta curva.",
@@ -27,7 +27,7 @@ const integrantes = [
   {
     id: 3,
     nombre: "Sara",
-    apodo: "PRÓXIMAMENTE",
+    apodo: "El gordo",
     tema: "Vértices y asíntotas",
     descripcion:
       "Dos elementos que ayudan a entender cómo se organiza y hacia dónde se dirige la hipérbola.",
@@ -36,7 +36,7 @@ const integrantes = [
   {
     id: 4,
     nombre: "Marlene",
-    apodo: "PRÓXIMAMENTE",
+    apodo: "Mar",
     tema: "La ecuación",
     descripcion:
       "Cómo leerla sin entrar en pánico y qué información nos cuenta sobre la gráfica.",
