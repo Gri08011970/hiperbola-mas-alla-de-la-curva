@@ -6,7 +6,7 @@ export const curso = {
   equipo: [
     "Sofi",
     "Facu",
-    "Sara",
+    "Sarah",
     "Marlene",
   ],
 
