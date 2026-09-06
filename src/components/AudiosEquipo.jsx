@@ -26,7 +26,7 @@ const integrantes = [
   },
   {
     id: 3,
-    nombre: "Sara",
+    nombre: "Sarah Flores",
     apodo: "El gordo",
     tema: "Vértices y asíntotas",
     descripcion:
@@ -35,7 +35,7 @@ const integrantes = [
   },
   {
     id: 4,
-    nombre: "Marlene",
+    nombre: "Marlene Noir",
     apodo: "Mar",
     tema: "La ecuación",
     descripcion:
