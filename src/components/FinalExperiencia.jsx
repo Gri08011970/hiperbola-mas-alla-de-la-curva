@@ -104,12 +104,12 @@ function FinalExperiencia({ onReiniciar, onVolver }) {
 
           <div className="final-equipo">
             <strong>
-              SOFI <i>·</i> FACU <i>·</i> SARAH <i>·</i> MARLENE
+              SOFI <i>·</i> FACU <i>·</i> SARAH <i>·</i> MARLU
             </strong>
 
             <span>5°A · TURNO TARDE</span>
 
-            <span>PROF. BORGNINO</span>
+            <span>PROF. BORGNINO,CESAR</span>
           </div>
         </div>
 

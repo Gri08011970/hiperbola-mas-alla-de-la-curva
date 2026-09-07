@@ -34,7 +34,7 @@ function App() {
           <div className="etiqueta portada-meta">
             <span>EXPERIENCIA MATEMÁTICA</span>
             <span className="curso-portada">5°A · TURNO TARDE</span>
-            <span className="profesor-portada">PROF. BORGNINO</span>
+            <span className="profesor-portada">PROF. BORGNINO,CESAR</span>
           </div>
 
           <h1>HIPÉRBOLA</h1>
