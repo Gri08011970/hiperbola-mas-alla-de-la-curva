@@ -11,14 +11,20 @@ export const curso = {
   ],
 
   companeros: [
-    { nombre: "La Colo", activo: true },
+    { nombre: "Elias", activo: true },
     { nombre: "Sandino", activo: true },
-    { nombre: "Facu", activo: true },
-    { nombre: "Mili", activo: true },
-    { nombre: "Tomi", activo: true },
-    { nombre: "Cami", activo: true },
-    { nombre: "Nacho", activo: true },
-    { nombre: "Juli", activo: true },
+    { nombre: "Liz", activo: true },
+    { nombre: "Mía", activo: true },
+    { nombre: "Diego", activo: true },
+    { nombre: "Abril", activo: true },
+    { nombre: "Noah", activo: true },
+    { nombre: "Kiara", activo: true },
+    { nombre: "Cesar", activo: true },
+    { nombre: "Blanca", activo: true },
+    { nombre: "Alma", activo: true },
+    { nombre: "Nicoll", activo: true },
+    { nombre: "Bianca", activo: true },
+    { nombre: "Natasha", activo: true },
   ],
 };
 export const frasesDesafio = [
